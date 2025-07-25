@@ -17,18 +17,6 @@ Developed using Python with signal processing libraries like NumPy, SciPy, and l
 3. Vocal Range Classification - Maps your range to categories (e.g., Alto = G3–F5).
 4. Smart Song Matching - Compares your range with metadata from a song database to suggest top matches.
 
-**Project Structure:**
-
-vocal-range-matcher/
-├── data/                 
-├── src/                  
-│   ├── pitch_detection.py
-│   ├── range_classifier.py
-│   └── recommender.py
-├── assets/               
-├── README.md
-└── requirements.txt
-
 **Libraries Used:**
 
 `librosa`, `NumPy`, `SciPy` – signal processing
