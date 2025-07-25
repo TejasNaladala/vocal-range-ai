@@ -8,7 +8,7 @@ Real-time pitch detection from microphone input
 Vocal range classification (e.g., Bass, Tenor, Alto, Soprano) along with pitch accuracy, vibrato, and vocal brightness
 Expandable song database with vocal range metadata
 Intelligent matching algorithm to recommend songs
-Developed using Python with signal processing libraries like NumPy, SciPy, and librosa
+Developed using Python (3.13.5) with signal processing libraries like NumPy, SciPy, and librosa
 
 **How It Works:**
 
@@ -30,6 +30,6 @@ Developed using Python with signal processing libraries like NumPy, SciPy, and l
 
 **About Me:**
 
-My name is Tejas Naladala and I am a freshman at the University of Washington, Seattle. I intend to pursue ECE. I love tinkering along the edge of hardware and software. My current interests include signal processing, audio tech, embedded AI, power electronics and photonics. I'd love to connect on linkedIn @www.linkedin.com/in/tejasnaladala :) 
+My name is Tejas Naladala and I am a freshman at the University of Washington, Seattle. I intend to pursue ECE. I love tinkering along the edge of hardware and software. My current interests include signal processing, audio tech, embedded AI, power electronics and photonics. I'd love to connect on linkedIn @www.linkedin.com/in/tejasnaladala
 
 Hope you like the project <3
