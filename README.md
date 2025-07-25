@@ -19,10 +19,7 @@ Developed using Python with signal processing libraries like NumPy, SciPy, and l
 
 **Libraries Used:**
 
-`librosa`, `NumPy`, `SciPy` – signal processing
-`sounddevice`, `pyaudio` – audio input
-`matplotlib`, `plotly` – visualizations
-`pandas`, `SQLite` – song metadata storage
+`librosa`, `NumPy`, `SciPy` for signal processing, `sounddevice`, `pyaudio` for audio input, `matplotlib`, `plotly` for visualization, `pandas`, `SQLite` for song metadata storage
 
 **Setup Instructions:**
 
