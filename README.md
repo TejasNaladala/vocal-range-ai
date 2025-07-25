@@ -26,7 +26,7 @@ Developed using Python with signal processing libraries like NumPy, SciPy, and l
 
 **Setup Instructions:**
 
-1. Clone the repo: git clone https://github.com/yourusername/vocal-range-matcher.git then enter
+1. Clone the repo: git clone https://github.com/yourusername/vocal-range-ai.git then enter
 2. Navigate to directory: cd vocal-range-ai
 3. Install dependencies - pip install -r requirements.txt
 4. Run the application - python src/main.py
