@@ -23,7 +23,7 @@ Developed using Python (3.13.5) with signal processing libraries like NumPy, Sci
 
 **Setup Instructions:**
 
-1. Clone the repo: git clone https://github.com/yourusername/vocal-range-ai.git then enter
+1. Clone the repo: git clone https://github.com/yourusername/vocal-range-ai.git
 2. Navigate to directory: cd vocal-range-ai
 3. Install dependencies - pip install -r requirements.txt
 4. Run the application - python src/main.py
